@@ -23,13 +23,13 @@ The project uses a [dataset](https://github.com/fazilahd/Salary-Prediction-Proje
 
 ## Installation
 1. Clone the repository:
-
+   ```bash
    git clone https://github.com/fazilahd/salary-prediction.git
 
    cd salary-prediction
 
-2. Install required packages:
-
+3. Install required packages:
+   ```bash
    pip install -r requirements.txt
 
 ## Usage
